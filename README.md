@@ -25,4 +25,4 @@
 [Our Home]: https://ourhome.cyclic.app/
 [El sibarita]: https://sibarita.netlify.app/
 [Eat Man]: https://moniignacio.github.io/Eat-man/
-[Portfolio]: https://mnf.red/profile-moniignacio/
+[Portfolio]: https://mnf.red/profile-moniignacio
