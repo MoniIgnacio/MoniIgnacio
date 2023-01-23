@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: [Portfolio]
+🔭 Here you can see some information about me: [Portfolio]
 
 <br>🌱 I’m currently learning:
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
@@ -25,4 +25,4 @@
 [Our Home]: https://ourhome.cyclic.app/
 [El sibarita]: https://sibarita.netlify.app/
 [Eat Man]: https://moniignacio.github.io/Eat-man/
-[Portfolio]: https://moniignacio.vercel.app/
+[Portfolio]: https://mnf.red/profile-moniignacio/
